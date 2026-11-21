@@ -10,14 +10,17 @@ Use a static web server to preview `sign.html`. PHP handling requires a PHP/MySQ
 
 Both rendered pages include descriptions, TheBenzzCreations author/creator metadata, Open Graph metadata and Twitter card metadata. Their existing Signup titles, forms and submission behavior are preserved. The PHP handler remains unchanged.
 
-`sign.html` includes one WebPage JSON-LD block identifying the creator and one visible developer credit in a footer beneath the form. The promotional link uses `rel="nofollow"`.
+`sign.html` includes one WebPage JSON-LD block identifying the creator and one visible developer credit in a footer beneath the form. The developer link uses a normal same-tab hyperlink.
 
 The public deployment URL has not been verified. Canonical links, `og:url` and the page's structured-data `url` are omitted until that URL is confirmed. The developer website must not be assumed to be this project's canonical URL. No dedicated social preview image is configured. Structured data does not guarantee search rich results.
 
-## Development
+## Development & Maintenance
 
-Developed by [TheBenzzCreations](https://www.thebenzzcreations.com/).
+**Developed & Maintained by
+[Khushal Sehrawat](https://github.com/khushalsehrawat)**
+— Founder of
+[TheBenzzCreations](https://www.thebenzzcreations.com/).
 
-TheBenzzCreations builds custom websites, mobile applications, business software, e-commerce platforms and AI automation solutions.
+TheBenzzCreations is a digital development studio specializing in website development, custom software, mobile applications, e-commerce solutions and AI-powered business automation.
 
-For development enquiries, visit our official website.
+For development enquiries and collaborations, visit [TheBenzzCreations](https://www.thebenzzcreations.com/).
