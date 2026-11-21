@@ -4,6 +4,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Signup</title>
+  <meta name="description" content="An alternate signup form for the account-registration practice project.">
+  <meta name="author" content="TheBenzzCreations">
+  <meta name="creator" content="TheBenzzCreations">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Signup Practice">
+  <meta property="og:title" content="Signup">
+  <meta property="og:description" content="An alternate signup form for the account-registration practice project.">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Signup">
+  <meta name="twitter:description" content="An alternate signup form for the account-registration practice project.">
 
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
