@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "name": "practice",
+      "root": ".",
+      "base_url": "https://khushalsehrawat.github.io/practice/",
+      "pages": {
+        "sign.html": "https://khushalsehrawat.github.io/practice/sign.html",
+        "sign1.php": null
+      }
+    }
+  ]
+}
